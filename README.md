@@ -6,8 +6,12 @@ Ever struggled to understand a weather forecast in a different unit? Fear not! T
 •	Display the converted values to the user.
 ## How it works 
 Enter the temperature you want to convert and choose the original unit (Celsius, Fahrenheit, or Kelvin). The program will display the equivalent values in the other two units with simple mathematical formulas .
-![temperature-conversion-formulas-](https://github.com/khadija-Saadani/images/blob/main/temperature-conversion-formulas-.png?raw=true)
+
+
+![temperature-conversion-formulas](https://github.com/khadija-Saadani/images/blob/main/temperature-conversion-formulas.png?raw=true)
 ## Supported Units
 •	Celsius (C)
+
 •	Fahrenheit (F)
+
 •	Kelvin (K)
